@@ -1,0 +1,438 @@
+hello how are you doing today
+fine thank you
+what is your name
+do you need help
+ask me for assistance
+feel free to ask for help
+what do you mean
+can you clarify
+i don't understand
+could you repeat that
+i'm not sure what you mean
+can you explain more
+i'm here to help
+how can i assist you
+what can i do for you
+tell me more about it
+i'm listening
+go ahead and ask
+i'm here to answer your questions
+what would you like to know
+how are you feeling
+i hope you're having a good day
+what's on your mind
+anything specific you need help with
+i'm ready to help
+just let me know
+how can i make your day better
+what's the problem
+i'm here to listen
+what's bothering you
+i'm here to support you
+do you want to talk about it
+i'm here to help you out
+what's the issue
+creating the simplest language model
+in Python involves using a basic approach
+such as a unigram model which is a type of
+n-gram model where the probability of a word is
+independent of the previous words
+This model can be used to generate text by selecting the next word
+an unknown person
+use of bitcoin as a currency began in 2009 with the release
+its open-source implementation
+it is mostly seen as an investment and has been described by many scholars
+as an economic bubble as bitcoin is pseudonymous its use by criminals has attracted
+the attention of regulators leading to its ban by several countries as of 2021
+what time is it?
+do you have the time?
+what are you doing later?
+are you free this weekend?
+what's for dinner?
+any plans for tonight?
+wnt to grab lunch together?
+did you watch the game last night?
+can i borrow your phone charger?
+are you coming to the party?
+i'm so happy for you!
+that's really cool!
+this is amazing!
+i'm so sorry to hear that.
+that's terrible!
+are you okay?
+you seem down.
+cheer up!
+i'm here for you.
+don't worry, it will be alright.
+i like your shirt!
+have you been here before?
+this music is great.
+what are you reading?
+the traffic was awful today.
+how was your weekend?
+long time no see!
+it's nice to meet you.
+what do you do for work?
+do you have any hobbies?
+i totally agree.
+you're right about that.
+that makes sense.
+i see your point.
+i'm not so sure about that.
+i don't think so.
+i disagree.
+that's not how i see it.
+let's agree to disagree.
+how are you doing today?
+what's the weather like there?
+i could really use a cup of coffee right now.
+tell me something interesting.
+i can't believe that just happened!
+that's a great idea!
+i'm feeling a little under the weather.
+can you help me with something?
+what's your favorite food? movie? book?
+have you heard the news lately?
+i see where you're coming from.
+that's a fair point.
+i can relate to that.
+i hadn't thought about it that way.
+there's definitely something to be said for that.
+you might be onto something.
+i can see both sides.
+it's a tough call.
+that's an interesting perspective.
+absolutely!
+exactly!
+you got it!
+couldn't have said it better myself.
+you read my mind.
+tell me about it!
+i'm with you on that.
+you're preaching to the choir.
+i'm 100% on board.
+no doubt about it.
+i'm not so sure.
+i don't know about that.
+that's not my experience.
+i beg to differ.
+i think differently.
+i have a different take on that.
+i see it a little differently.
+while i respect your opinion...
+i understand what you're saying, but... no
+i completely disagree.
+i don't think that's right at all.
+you're way off base.
+that's simply not true.
+i'm afraid i have to disagree.
+i couldn't disagree more.
+no way!
+you're kidding, right?
+let's just agree to disagree.
+maybe we should move on.
+i can respect that we have different views.
+let's not argue about this.
+we're not going to see eye to eye on this.
+lovely day, isn't it?
+can you believe this heat/cold?
+hopefully, the rain holds off.
+i hear it's supposed to snow later.
+i can't wait for spring.
+what a beautiful place!
+the food here is delicious.
+this music is really getting me in the mood.
+i love your hat.
+this line seems to be taking forever.
+have you seen any good movies lately?
+what kind of music are you into?
+are you reading anything interesting?
+do you have any pets?
+have you been on vacation recently?
+are you originally from around here?
+so, what do you do for fun?
+how do you know Zverev Nikita?
+busy week?
+anything exciting planned for the weekend?
+it was nice chatting with you.
+enjoy the rest of your day.
+it was great running into you.
+let's try to get together sometime.
+i'm going to grab another drink, please excuse me.
+wanna hang out later?
+you free this weekend?
+netflix and chill?
+let's grab some food.
+come over whenever!
+my place or yours?
+up for an adventure?
+lets catch a movie.
+drinks on me!
+we should totally do this more often.
+you got this!
+i'm proud of you.
+i'm here for you.
+you're the best!
+don't worry, it'll be okay.
+i believe in you.
+way to go!
+you're killing it!
+you're such a good friend.
+thanks for being you.
+hey there!
+what's up, buttercup?
+howdy, partner!
+long time no see!
+hey stranger!
+'sup?
+what's shakin'?
+yo!
+how's it going?
+what's new?
+going? fantastic! how about you?
+going? couldn't be better! what about you?
+going? amazing, thanks for asking! and yourself?
+going? living the dream! how's it going with you?
+going? on top of the world! how about yourself?
+going? things are great, thanks for asking! you?
+pretty good, thanks for asking. how are you?
+not bad, not bad. how about you?
+going? all is well, thanks. what about you?
+going? doing well, how about yourself?
+i'm good, thanks. you?
+going? just peachy, thanks for asking. you?
+alright, how about you?
+good, thanks. you?
+going? i'm okay, how are you?
+doing well, and you?
+same old, same old. you?
+going? hanging in there, how about you?
+going? could be better, but i'm hanging in there. you?
+going? a little tired, but i'll survive. how about you?
+stressed, but pushing through. you?
+it's been a day, how about you?
+going? i'm surviving, how about yourself?
+i've had better days, how about you?
+i haven't started my day yet, does that count? how about you?
+living the dream... if the dream involves lots of coffee, how about you?
+surviving, barely. how about yourself? said with a playful wink
+well, my dog hasn't run away today, so i'm calling it a win! you?
+oh, you know, just the usual chaos. how's your day going?
+actually, really productive so far! just finished [task], how about you?
+a little stressed about the concert, but otherwise okay. you?
+excited about my birthday, how's your week looking?
+tired, but looking forward to walk later, how about you?
+honestly, feeling super motivated today, how about yourself?
+can't complain! you?
+good, you?
+i'm great! you?
+not much, you?
+going? just chillin', you?
+livin' the life! you?
+same old grind, you know?
+just cruisin', how 'bout you?
+all good in the hood, you?
+keepin' it real, how about yourself?
+hypothesis testing
+scientific method
+peer review process
+data analysis
+statistical significance
+control group
+experimental design
+scientific theory
+empirical evidence
+qualitative research
+quantitative research
+medicine
+cell biology
+dna replication
+genetic engineering
+evolutionary biology
+natural selection
+immune system
+cardiovascular system
+nervous system
+epidemiology
+clinical trial
+quantum mechanics
+general relativity
+string theory
+big bang theory
+black hole
+gravitational waves
+electromagnetic spectrum
+thermodynamics
+nuclear fission
+nuclear fusion
+materials Science
+chemical reaction
+periodic table
+organic chemistry
+inorganic chemistry
+chemical bonding
+molecular structure
+polymers
+nanotechnology
+material properties
+chemical synthesis
+environmental science
+climate change
+global warming
+greenhouse effect
+renewable energy
+biodiversity
+conservation biology
+ecosystem services
+pollution
+sustainability
+geological time scale
+engineering
+artificial intelligence
+machine learning
+computer science
+robotics
+software development
+whee... carti
+data science
+aerospace engineering
+civil engineering
+electrical engineering
+mechanical engineering
+based and true
+facts
+couldn't have said it better myself
+spitting straight fire
+you get it
+preach!
+now you're speaking my language
+this is the way
+carti playboi
+soup eater
+kulkov kirill
+kulkoff kirill
+kiril kulkoff
+egor kondratev
+egor kvadratev
+egor kvadratiev
+you're on to something
+big brain time
+expressing individuality, unconventional thought
+not afraid to say it
+down with the cause
+real recognizes real
+thinking outside the box
+swim against the current
+march to the beat of your own drum
+challenge the status quo
+break the mold
+keep it real, even if it's unpopular
+so based it hurts
+based and breadpilled
+based and redpilled
+blackpilled cope
+bro really said
+bluepilled cope
+redpilled cope
+based and blackpilled use cautiously often has negative connotations
+based and enlightened
+based and galaxy brain
+bro cooked
+bro asked
+aight bro
+bro, for real?
+bro, no way!
+bro, cap!
+bro, you lyin'!
+bro, stop playin'!
+bro, get outta here!
+bro, what?!
+bro, facts!
+bro, i feel that.
+bro, same.
+no cap bro
+bro, for sure.
+bro, tell me about it.
+bro you already know.
+bro that's fire
+bro you killed it
+bro, you're a legend!
+bro, nice one!
+bro, you a real one.
+bro chill
+bro stop it.
+bro not cool
+bro that's messed up
+bro why would you do that
+bro come on man
+bro what's good
+bro let's go
+bro, i'm dead!
+bro, help me out.
+bro, my bad.
+bro, hold up.
+yeah, definitely
+yeah, for sure
+yeah, i think so
+yeah, i agree
+bro didn't even hesitate
+yeah, you're right
+yeah, that makes sense
+yes. absolutely
+yes. indeed
+yes. i can do that
+yes. please
+yes. i understand
+yeah. let's do it!
+yeah. that sounds awesome!
+yes! finally!
+yes! i'm in!
+yeah! tell me more!
+Hesitation/Uncertainty:
+yeah. i guess
+yeah. maybe
+yeah. i'm not sure
+yes. but...
+yes. i suppose
+yeah. what's up?
+yeah. so...
+yes, and...?
+yeah, no, i get it
+yeah well this was fucked up
+what is this?
+what happened?
+what do you want?
+what time is it?
+what are you doing?
+what did you say
+what's going on?
+what's the matter?
+what's your name?
+what's new?
+what if we relax
+what else?
+what about that?
+what for?
+what a surprise!
+what a day!
+what a shame!
+what a mess!
+what a relief!
+what a nightmare!
+what goes around comes around.
+what's done is done.
+what will be, will be.
+what's up?
+what's good?
+what the heck?
+what the fck?
+no problem. no way! no worries. no thank you. no kidding! no offense, but... no pain, no gain.
+no strings attached.
+no time like the present.
+no trespassing.
+no smoking
+no entry
+no way out
+no time to explain
+no more excuses
+no matter what.
